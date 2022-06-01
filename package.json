@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzbuzz TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "d1360cub",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
